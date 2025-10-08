@@ -10,7 +10,7 @@ I'm a Full Stack Developer passionate about building sustainable and impactful t
 - **Location:** Nairobi, Kenya
 - **Current Role:** Full Stack Developer at Joombaah (Jan 2025 – Present)
 - **Education:** Diploma in Information Technology at AkiraChix, codeHive (Feb 2024 – Present)
-- **Contact:** [wanjiruwanjikuivy@gmail.com](mailto:wanjiruwanjikuivy@gmail.com) | [LinkedIn](#) | [GitHub](https://github.com/Ivy-Wanjiku)
+- **Contact:** [wanjiruwanjikuivy@gmail.com](mailto:wanjiruwanjikuivy@gmail.com) | [LinkedIn](https://www.linkedin.com/in/ivy-wanjiku-43345b298/) | [GitHub](https://github.com/Ivy-Wanjiku)
 - **Fun Fact:** I love building creative apps that solve real-world problems!
 
 ---
@@ -74,7 +74,7 @@ Building, maintaining, and deploying full stack web and mobile solutions, collab
 ## 📫 Contact & Links
 
 - **Email:** [wanjiruwanjikuivy@gmail.com](mailto:wanjiruwanjikuivy@gmail.com)
-- **LinkedIn:** [LinkedIn Profile](#)
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/ivy-wanjiku-43345b298/)
 - **GitHub:** [Ivy-Wanjiku](https://github.com/Ivy-Wanjiku)
 
 ---
