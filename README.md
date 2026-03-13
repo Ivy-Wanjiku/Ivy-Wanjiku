@@ -55,7 +55,8 @@ Web platform built with JavaScript, HTML, and CSS using the cocktaildb API. Sear
 
 **AkiraChix**  
 *codeHive - Diploma in Information Technology*  
-February 2024 – Present
+February 2024 – November 2024
+
 
 Courses:  
 Frontend & Backend Web Development, Mobile Development, Product Management, Data & Software Architecture, UX/UI
